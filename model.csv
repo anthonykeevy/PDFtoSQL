@@ -1,0 +1,11 @@
+ModelID,Brand,ManufacturerYear,ModelName,EngineCapacity,Variant,FuelType,VehicleDescription
+1,Subaru,MY20,Outback,2.0,Wheel Arch,Petrol,MY20 Outback 2.0Wheel Arch
+2,Subaru,MY20,Forester,2.5,i and 2,Petrol,MY20 Forester 2.5i and 2
+3,Subaru,MY20,Forester,5.0,i-L,Petrol,MY20 Forester 5.0i-L
+4,Subaru,MY20,Forester,2.5,i-P and 2,Petrol,MY20 Forester 2.5i-P and 2
+5,Subaru,MY20,Forester,5.0,i-S,Petrol,MY20 Forester 5.0i-S
+6,Subaru,MY20,XV,18.0,inch,Petrol,MY20 XV 18.0inch
+7,Subaru,MY20,Impreza sedan,18.0,inch,Petrol,MY20 Impreza sedan 18.0inch
+8,Subaru,MY20,BRZ,2.0,required,Petrol,MY20 BRZ 2.0required
+9,Subaru,MY20,BRZ,17.0,in,Petrol,MY20 BRZ 17.0in
+10,Subaru,MY20,BRZ,6.0,MT,Petrol,MY20 BRZ 6.0MT

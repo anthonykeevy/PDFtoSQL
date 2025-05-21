@@ -1,0 +1,8 @@
+2025-05-18 19:13:33,305 INFO ETL started
+2025-05-18 19:13:33,346 INFO Opened PDF: ./3267-Model Accessory Price List February 20_V2.pdf (48 pages)
+2025-05-18 19:13:41,019 INFO Extracted 0 models
+2025-05-18 19:13:41,841 WARNING Page 5: incomplete header
+2025-05-18 19:13:49,419 INFO Extracted 0 parts and 0 fitments
+2025-05-18 19:13:49,419 WARNING Skipping part integrity: columns [] vs ['PartID']
+2025-05-18 19:13:49,419 WARNING Skipping model integrity: columns [] vs ['ModelID']
+2025-05-18 19:13:49,420 INFO ETL completed
